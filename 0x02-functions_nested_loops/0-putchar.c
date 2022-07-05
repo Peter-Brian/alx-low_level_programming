@@ -5,7 +5,6 @@
 */
 int main(void)
 {
-int a;
 putchar('a');
 putchar('\n');
 return (0);
