@@ -6,9 +6,10 @@
 */
 int main(void)
 {
-char = "_putchar";
+char = "putchar";
 int msg;
 for (msg = 0; msg <= 5; msg++)
-putchar(_putchar);
+putchar(putchar);
+putchar('\n')
 return (0);
 }
