@@ -6,6 +6,9 @@
 */
 int main(void)
 {
-putchar('a');
+char = "_putchar";
+int msg;
+for (msg = 0; msg <= 5; msg++)
+putchar(_putchar);
 return (0);
 }
