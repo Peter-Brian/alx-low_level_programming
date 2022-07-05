@@ -6,7 +6,6 @@
 */
 int main(void)
 {
-putchar('a');
-putchar('\n');
+putchar('a\n');
 return (0);
 }
