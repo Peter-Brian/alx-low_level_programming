@@ -7,7 +7,6 @@
 void print_alphabet(void)
 {
 char i;
-i = 56
 while (i <= 'z')
 {
 _putchar(ch);
