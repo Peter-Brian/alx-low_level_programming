@@ -14,7 +14,8 @@ for (a = 1; a <= 50; ++a)
 if (b != 20365011074)
 {
 printf("%ld, ", b);
-} else
+}
+else
 {
 printf("%ld\n", b);
 }
