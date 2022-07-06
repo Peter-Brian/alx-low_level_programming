@@ -6,9 +6,9 @@
 */
 void print_alphabet(void)
 {
-char ch;
-ch = 'a';
-while (ch <= 'z')
+char i;
+i = 56
+while (i <= 'z')
 {
 _putchar(ch);
 ch++;
