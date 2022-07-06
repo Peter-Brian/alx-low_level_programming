@@ -11,11 +11,11 @@ if (n < 0)
 return (n * (-1));
 }
 {
-if (n == 0)
+if else (n == 0)
 return (0);
 }
 {
-else
+else (n>0)
 return (n);
 }
 }
