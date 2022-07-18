@@ -1,5 +1,6 @@
-
-ry
+Tasks
+0. memset
+mandatory
 Write a function that fills memory with a constant byte.
 
 Prototype: char *_memset(char *s, char b, unsigned int n);
@@ -466,3 +467,4 @@ Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
 File: 101-crackme_password
+   
