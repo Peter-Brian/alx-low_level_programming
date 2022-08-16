@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 /**
  * struct listint_s - singly linked list
@@ -12,7 +13,6 @@
  * Description: singly linked list node structure
  * 
  */
-
 typedef struct listint_s
 {
 	int n;
