@@ -1,4 +1,4 @@
-nclude "hash_tables.h"
+#include "hash_tables.h"
 /**
  * key_index - gives the index of a key
  * @key: is the key (the word passed to save in the hash table)
